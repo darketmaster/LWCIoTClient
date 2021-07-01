@@ -53,8 +53,8 @@ const long  gmtOffset_sec = -18000;
 const int   daylightOffset_sec = 0;
 static char timeStamp[20] = "0000-00-00 00:00:00";
 
-#define WIFI_NETWORK "FAMILIA_LV"
-#define WIFI_PASSWORD "pavic2016"
+#define WIFI_NETWORK "XXXXXX"
+#define WIFI_PASSWORD "xxxxx"
 #define WIFI_TIMEOUT_MS 20000 // 20 second WiFi connection timeout
 #define WIFI_RECOVER_TIME_MS 30000 // Wait 30 seconds after a failed connection attempt
 
