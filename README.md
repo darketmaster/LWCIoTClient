@@ -6,7 +6,9 @@ You need install ESP32 libs
 use ESPSDS011 https://github.com/dok-net/esp_sds011
 
 Based in NIST Finalist Candidates of [Lightweight Cryptography Competition.](https://csrc.nist.gov/projects/lightweight-cryptography)
-[WebSite](https://rweather.github.io/lightweight-crypto/) [REPO](https://github.com/rweather/lwc-finalists) with contains implementations of finalists.
+
+[WebSite](https://rweather.github.io/lightweight-crypto/) and [REPO](https://github.com/rweather/lwc-finalists) with contains implementations of finalists.
+
 [ASCON WebSite](https://ascon.iaik.tugraz.at/resources.html)
 
 
