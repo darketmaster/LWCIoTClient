@@ -46,15 +46,15 @@ static String encodedstr;
 static int numconnections = 0;
 static bool connectState = false;
 static bool registerState = false;
-static String endpoint = "http://54.208.126.98:8000";
+static String endpoint = "http://changeme:8000";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = -18000;
 const int   daylightOffset_sec = 0;
 static char timeStamp[20] = "0000-00-00 00:00:00";
 
-#define WIFI_NETWORK "XXXXXX"
-#define WIFI_PASSWORD "xxxxx"
+#define WIFI_NETWORK "SSID"
+#define WIFI_PASSWORD "password"
 #define WIFI_TIMEOUT_MS 20000 // 20 second WiFi connection timeout
 #define WIFI_RECOVER_TIME_MS 30000 // Wait 30 seconds after a failed connection attempt
 
