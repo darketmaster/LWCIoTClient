@@ -336,7 +336,7 @@ void keepWiFiAlive(void * parameter){
 void getNonce()
 {
   HTTPClient http;   
-  Serial.println("################# REGSTRY ##############");
+  Serial.println("################# REGISTRY ##############");
   http.begin(endpoint+"/register/");  //Specify destination for HTTP request
   http.addHeader("Content-Type", "application/json");             //Specify content-type header
   DynamicJsonDocument ddoc(256);
