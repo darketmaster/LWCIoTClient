@@ -31,7 +31,7 @@ git clone https://github.com/darketmaster/LWCIoTClient
 ## Authors
 
 * **Mauricio Lopez T.** - [*GitHub*](https://github.com/darketmaster)
-* **Andres Quintero T.**
+* **Andres Quintero T.** - [*GitHub*](https://github.com/zachafe)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
